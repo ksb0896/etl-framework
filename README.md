@@ -1,2 +1,2 @@
 # etl-framework
-Extract, transfer &amp; load
+ETL application for order data from MongoDB to PostgreSQL
